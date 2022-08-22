@@ -1,0 +1,15 @@
+C:\Users\bsi80136\TodoApi\PostTest\bin\Debug\net6.0\PostTest.exe
+C:\Users\bsi80136\TodoApi\PostTest\bin\Debug\net6.0\PostTest.deps.json
+C:\Users\bsi80136\TodoApi\PostTest\bin\Debug\net6.0\PostTest.runtimeconfig.json
+C:\Users\bsi80136\TodoApi\PostTest\bin\Debug\net6.0\PostTest.dll
+C:\Users\bsi80136\TodoApi\PostTest\bin\Debug\net6.0\PostTest.pdb
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.csproj.AssemblyReference.cache
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.AssemblyInfoInputs.cache
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.AssemblyInfo.cs
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.csproj.CoreCompileInputs.cache
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.dll
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\refint\PostTest.dll
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.pdb
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\PostTest.genruntimeconfig.cache
+C:\Users\bsi80136\TodoApi\PostTest\obj\Debug\net6.0\ref\PostTest.dll
